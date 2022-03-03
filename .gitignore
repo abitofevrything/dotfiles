@@ -4,3 +4,6 @@
 
 # Include this file
 !.gitignore
+
+# Include configuration files
+!.config/
