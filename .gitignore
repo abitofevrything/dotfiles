@@ -1,0 +1,6 @@
+# Ignore everything by default
+# Files or directories we want to include with be specifically mentioned below
+*
+
+# Include this file
+!.gitignore
