@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pacman --config /home/abitofevrything/.config/pacman/pacman.conf $*
