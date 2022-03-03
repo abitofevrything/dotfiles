@@ -8,3 +8,4 @@
 # Include configuration files
 !.config/paru
 !.config/pacman
+!.config/i3
