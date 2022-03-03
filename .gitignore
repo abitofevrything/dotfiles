@@ -6,4 +6,5 @@
 !.gitignore
 
 # Include configuration files
-!.config/
+!.config/paru
+!.config/pacman
