@@ -102,3 +102,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Enable syntax highlighting
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# Set editor to Visual Studo Code
+export EDITOR="code --wait"
