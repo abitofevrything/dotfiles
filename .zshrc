@@ -105,3 +105,7 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # Set editor to Visual Studo Code
 export EDITOR="code --wait"
+
+# Use chromium for flutter web
+export CHROME_EXECUTABLE=chromium
+
